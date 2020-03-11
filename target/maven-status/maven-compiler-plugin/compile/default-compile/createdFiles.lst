@@ -1,0 +1,6 @@
+com/freshworks/com/repository/MicroRepository.class
+com/freshworks/com/domain/Micro.class
+com/freshworks/com/config/ApplicationInitializer.class
+com/freshworks/com/resources/MicroController.class
+com/freshworks/com/service/MicroService.class
+com/freshworks/com/exception/ApplicationException.class
